@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
-    "build": "npm run build"
+    "build": "vue-cli-service build"
   },
   "dependencies": {
     "axios": "^0.16.2",
